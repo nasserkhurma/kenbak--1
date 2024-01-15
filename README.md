@@ -13,8 +13,8 @@ MacBook Air M2 (2022)
 1.1GHz quad-core Intel Core i5, Turbo Boost up to 3.5GHz, with 6MB L3 cache. 
 Apple MacBook Air M2 (2022) Specs. The base model has an eight-core CPU and eight-core GPU, 8GB of RAM, and 256GB of storage, while the $1,499 step-up model that I have been able to test comes with a 10-core GPU and 512GB of storage. 
 16GB or 24GB unified memory. 512GB, 1TB, or 2TB SSD. 35W Dual USB-C Port Compact Power Adapter. 70W USB-C Power Adapter.
-| mackbook air m2        |kenbal-1           | Cool  |
-| ------------- |:-------------:| -----:|
-| apple m1     | Intel's type 1404A | $1600 |
-| 8b memory ram    | 256 bytes memory      |   $12 |
-| 253 GB storage | 256 bytes      |    $1 |
+| mackbook air m2        |kenbal-1           
+| ------------- |:-------------:| 
+| apple m1     | Intel's type 1404A  
+| 8b memory ram    | 256 bytes memory      
+| 253 GB storage | 256 bytes      |    $
