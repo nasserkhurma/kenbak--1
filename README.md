@@ -21,4 +21,9 @@ Apple MacBook Air M2 (2022) Specs. The base model has an eight-core CPU and eigh
 
 https://www.youtube.com/watch?v=IoScmIoeAr4 video about **kenbak-1**
 https://www.apple.com/jo/ 
-[^1]: apple website.  
+1. kenbak-1
+2. mackbook air 
+⋅⋅* Unordered sub-list. 
+1. microsoft computers
+
+
