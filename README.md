@@ -18,8 +18,10 @@ Apple MacBook Air M2 (2022) Specs. The base model has an eight-core CPU and eigh
 | apple m1     | Intel's type 1404A  
 | 8b memory ram    | 256 bytes memory      
 | 253 GB storage | 256 bytes      |    $
-
-https://www.youtube.com/watch?v=IoScmIoeAr4 video about **kenbak-1**
+https://www.youtube.com/watch?v=IoScmIoeAr4
+ video about **kenbak-1** <a href=["http://www.youtube.com/watch](https://www.youtube.com/watch?v=IoScmIoeAr4)?feature=player_embedded&v=IoScmIoeAr4
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> 
 https://www.apple.com/jo/ 
 1. kenbak-1
 2. mackbook air 
